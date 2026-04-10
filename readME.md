@@ -4,6 +4,9 @@
 **Target Application:**  https://www.saucedemo.com/
 **Framework:** Playwright + TypeScript
 
+## Automate Result
+Autoamte Result Video can be found on this link https://drive.google.com/file/d/1oQVlsxhNGmP5j_hAzKKzHMP3mOtmxWGI/view?usp=drive_link
+
 ## Overview
 This project is automated UI testing for the QA Engineer position at MIFX.
 The framework is built using Playwright with TypeScript, since i have experience using it at Traveloka
