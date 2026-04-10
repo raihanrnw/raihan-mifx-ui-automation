@@ -1,8 +1,8 @@
 # 🚀 SauceDemo UI Automation - Playwright Framework - Submission QA Engineer in MIFX
 
-**Name:** Raihan Naiwan
-**Target Application:**  https://www.saucedemo.com/
-**Framework:** Playwright + TypeScript
+**Name:** Raihan Naiwan  
+**Target Application:**  https://www.saucedemo.com/  
+**Framework:** Playwright + TypeScript  
 
 ## Automate Result
 Automate Result Video can be found on this link https://drive.google.com/file/d/1oQVlsxhNGmP5j_hAzKKzHMP3mOtmxWGI/view?usp=drive_link
