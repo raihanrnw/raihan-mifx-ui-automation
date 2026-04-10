@@ -1,0 +1,36 @@
+# 🚀 SauceDemo UI Automation - Playwright Framework - Submission QA Engineer in MIFX
+
+**Name:** Raihan Naiwan
+**Target Application:**  https://www.saucedemo.com/
+**Framework:** Playwright + TypeScript
+
+## Overview
+This project is automated UI testing for the QA Engineer position at MIFX.
+The framework is built using Playwright with TypeScript, since i have experience using it at Traveloka
+
+## Technology Stack
+* **Testing Framework:** Playwright Test & TypeScript & Node.js
+
+## Framework Architecture
+This project is designed to test maintainability and reusability since im using testData with seperated from the main test file, allowing testdata to be reused across multiple test scenarios without duplicating code.
+
+## Execution Guide (Running via Terminal)
+1. Clone this repository and navigate to the project root directory.
+2. Ensure your terminal is utilizing Node.js and run npm install followed by npx playwright install --with-deps
+3. Execute the test suite using command npx playwright test --project=chromium --headed
+
+## Test Reporting
+1. Once the tests complete, you can run the command npx playwright show-report to see report
+
+
+```Directory
+playwright-ui-test-mifx-assigment-raihan-naiwan/
+├── playwright.config.ts          # Playwright + Chromium config
+├── package.json / tsconfig.json
+├── pages/LoginPage.ts            # Page Object Model
+├── data/testData.ts              # Centralized test data
+└── tests/
+    ├── positive.test.ts          # positive case scenarios 
+    ├── negative.test.ts          # negative case scenarios
+    └── boundary-edge.test.ts     # edge/boundary case scenarios
+
