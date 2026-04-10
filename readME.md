@@ -25,7 +25,12 @@ This project is designed to test maintainability and reusability since im using 
 ## Test Reporting
 1. Once the tests complete, you can run the command npx playwright show-report to see report
 
-
+## Assessment Portfolio
+This repository is part of a 3-part submission for the MIFX QA Engineer role. You can view the other projects here:
+* [UI Automation (Playwright) ↗](https://github.com/raihanrnw/raihan-mifx-ui-automation)
+* [API Automation (Karate) ↗](https://github.com/raihanrnw/raihan-mifx-api-automation)
+* [API Data Extraction Utility (Pyhton) ↗](https://github.com/raihanrnw/raihan-mifx-data-extraction)
+  
 ```Directory
 playwright-ui-test-mifx-assigment-raihan-naiwan/
 ├── playwright.config.ts          # Playwright + Chromium config
